@@ -1,0 +1,48 @@
+2023-Aug-31-04:14:35,ETL Job Started
+2023-Aug-31-04:15:13,Extract phase Started
+2023-Aug-31-04:15:14,Extract phase Ended
+2023-Aug-31-04:15:34,Extract phase Started
+2023-Aug-31-04:15:34,Extract phase Ended
+2023-Aug-31-04:15:39,Transform phase Started
+2023-Aug-31-04:15:39,Transform phase Ended
+2023-Aug-31-04:15:54,Load phase Started
+2023-Aug-31-04:15:54,Load phase Ended
+2023-Aug-31-04:15:57,ETL Job Ended
+06:02-36-Aug:31:2023,ETL Job is started.
+06:02-58-Aug:31:2023,Extract task is started.
+06:02-58-Aug:31:2023,Extract task is completed.
+06:03-12-Aug:31:2023,Transform task is started.
+06:03-12-Aug:31:2023,Transform task is completed.
+06:03-36-Aug:31:2023,Transform task is started.
+06:03-36-Aug:31:2023,Transform task is completed.
+06:03-48-Aug:31:2023,Transform task is started.
+06:03-48-Aug:31:2023,Transform task is completed.
+06:03-57-Aug:31:2023,Load task is started.
+06:03-57-Aug:31:2023,Load task is completed.
+06:03-57-Aug:31:2023,ETL job is completed.
+2023-Sep-02-06:08:22,ETL Job Started
+2023-Sep-02-06:08:24,Extract phase Started
+2023-Sep-02-06:08:34,Extract phase Started
+2023-Sep-02-06:09:05,Extract phase Started
+2023-Sep-02-06:09:38,Extract phase Started
+2023-Sep-02-06:10:36,Extracted phase Ended
+2023-Sep-02-06:10:50,Transform phase Started
+2023-Sep-02-06:12:05,Extract phase Started
+2023-Sep-02-06:14:35,ETL Job Started
+2023-Sep-02-06:14:37,Extract phase Started
+2023-Sep-02-06:14:40,Extracted phase Ended
+2023-Sep-02-06:14:43,Transform phase Started
+2023-Sep-02-06:20:24,ETL Job Started
+2023-Sep-02-06:20:26,Extract phase Started
+2023-Sep-02-06:20:28,Extracted phase Ended
+2023-Sep-02-06:20:30,Transform phase Started
+2023-Sep-02-06:25:04,Extract phase Started
+2023-Sep-02-06:27:30,Extract phase Started
+2023-Sep-02-06:27:54,ETL Job Started
+2023-Sep-02-06:27:55,Extract phase Started
+2023-Sep-02-06:27:58,Extracted phase Ended
+2023-Sep-02-06:28:00,Transform phase Started
+2023-Sep-02-06:28:16,Extract phase Started
+2023-Sep-02-06:30:02,Transform phase Ended
+2023-Sep-02-06:30:29,Load phase Started
+2023-Sep-02-06:32:27,Load phase Ended
